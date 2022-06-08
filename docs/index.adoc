@@ -1,3 +1,0 @@
-= Pythonの学習メモ
-
-* ゼロからのPython入門講座[./introduction-to-python-from-zero.adoc]
